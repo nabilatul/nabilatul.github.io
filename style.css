@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: orange;
+}
+
+#about {
+  background-color: #ff5500;
+}
+
+#experience {
+  background-color: orange;
+}
+
+#skill {
+  background-color: #ff5500;
+}
+
+#contact {
+  background-color: orange;
+}
+
+section {
+  padding-top: 5rem;
+}
